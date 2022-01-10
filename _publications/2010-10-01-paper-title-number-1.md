@@ -17,7 +17,7 @@ of payouts, providing a closer fit to the historical corporate default rates, pa
 issuers of speculative-grade bonds.'
 date: 2021-12-27
 venue: 'Working paper'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://dx.doi.org/10.2139/ssrn.3761957'
 citation: 'Bougias, Alexandros, Athanasios Episcopos, and George N. Leledakis (2021). &quot;The role of asset payouts in the estimation of default barriers.&quot; Available at SSRN. 3761957.'
 ---
 We show that the introduction of asset payouts in the barrier option model of corporate securities valuation lead to lower than leverage barriers and improves the estimation of corporate default probabilities.
