@@ -22,6 +22,6 @@ citation: 'Bougias, Alexandros, Athanasios Episcopos, and George N. Leledakis (2
 ---
 We show that the introduction of asset payouts in the barrier option model of corporate securities valuation lead to lower than leverage barriers and improves the estimation of corporate default probabilities.
 
-[Download paper here](http://alexbougias.github.io/files/paper2.pdf)
+[Download paper here](http://alexbougias.github.io/files/paper1.pdf)
 
 Recommended citation:  'Bougias, Alexandros, Athanasios Episcopos, and George N. Leledakis (2021). &quot;The role of asset payouts in the estimation of default barriers.&quot; Available at SSRN. 3761957.'
