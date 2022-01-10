@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Alex Bougias"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   bio              : "I am a recent graduate from the department of Accounting and Finance, Athens University of Economics and Business. During my studies, I was employed as a researcher under the supervision of Associate Professor Athanasios Episcopos. As of December 2021, I work in the Financial Services and Risk Management (FSRM) department of EY in Greece. My research focuses on the application of structural credit risk models to sovereign debt valuation, corporate default risk and deposit insurance pricing"
   location         : "Athens, Greece"
   employer         :
   pubmed           :  
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KsnVPMAAAAAJ"
-  email            :
+  email            : "bougias@aueb.gr"
   researchgate     : "https://www.researchgate.net/profile/Alexandros-Bougias"
   uri              :
   bitbucket        :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :  
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :  
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://quant.stackexchange.com/users/29745/alexbougias"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :  
   vine             :
   weibo            :
   xing             :
