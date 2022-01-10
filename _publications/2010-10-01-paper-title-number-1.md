@@ -18,9 +18,9 @@ issuers of speculative-grade bonds.'
 date: 2021-10-01
 venue: 'Working paper'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Alex boug, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Bougias, Alexandros, Athanasios Episcopos, and George N. Leledakis (2021). &quot;The role of asset payouts in the estimation of default barriers.&quot; Available at SSRN 1</i>. 3761957.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+We show that the introduction of asset payouts in the barrier option model of corporate securities valuation lead to lower than leverage barriers and improves the estimation of corporate default probabilities.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
