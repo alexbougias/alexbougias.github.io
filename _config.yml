@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexandros Bougias / Under construction"
+title                    : "Alexandros Bougias"
 title_separator          : "-"
 name                     : &name "Alex Bougias"
 description              : &description "personal description"
