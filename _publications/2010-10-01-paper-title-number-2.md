@@ -1,5 +1,5 @@
 ---
-title: "Sovereign debt dynamics with serial defaults"
+title: "Sovereign debt dynamics with serial default"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We propose a structural model of sovereign debt valuation that explicitly incorporates the possibility of serial defaults (SDs). We derive analytically the firm stock and sovereign bond
